@@ -22,9 +22,9 @@ organizations:
 bio: My research interests lie at the intersection of causality and machine learning. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. 
 
 interests:
-- Machine Learning for Causal Discovery
-- Neuroscience
-- Economics
+- Machine Learning for Causal Inference
+- Methods for Causal Discovery
+- Neuroeconomics
 
 education:
   courses:
@@ -32,11 +32,11 @@ education:
     institution: Free University Berlin / Berlin School of Economics
     year: 2020
   - course: MSc in Economics
-    institution: Paris School of Economics
+    institution: Paris School of Economics and Ecole Polytechnique
     year: 2015
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+  - course: MA in Int'l Relations and European Politics
+    institution: Centre Internationale de Formation Européenne
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-test
+My research interests lie at the intersection of causality and machine learning. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. In Winter 2018/2019 I visited Uri Shalit at the Technion in Haifa. In spring 2020 I visited Frederick Eberhardt at Caltech --- I will be joining his group as a post-doctoral scholar in 2020. 
