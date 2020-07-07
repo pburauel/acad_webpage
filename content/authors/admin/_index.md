@@ -31,9 +31,9 @@ education:
   - course: PhD in Economics
     institution: Free University Berlin / Berlin School of Economics
     year: 2020
-#  - course: MSc in Economics
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
+  - course: MSc in Economics
+    institution: Paris School of Economics
+    year: 2015
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "pburauel@diw.de".
+  link: "mailto:pburauel@diw.de".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -66,9 +66,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+#- Researchers
+#- Visitors
 ---
 
 test
