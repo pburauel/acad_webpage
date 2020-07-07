@@ -23,7 +23,7 @@ bio: My research interests lie at the intersection of causality and machine lear
 
 interests:
 - Machine Learning for Causal Inference
-- Methods for Causal Discovery
+- Methods for Causal Structure Discovery
 - Neuroeconomics
 
 education:
