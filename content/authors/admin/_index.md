@@ -23,7 +23,7 @@ bio: My research interests lie at the intersection of causality and machine lear
 
 interests:
 - Machine Learning for Causal Inference
-- Methods for Causal Structure Discovery
+- Causal Structure Discovery
 - Neuroeconomics
 
 education:
@@ -34,18 +34,18 @@ education:
   - course: MSc in Economics
     institution: Paris School of Economics and Ecole Polytechnique
     year: 2015
-  - course: MA in Int'l Relations and European Politics
-    institution: Centre Internationale de Formation Européenne
-    year: 2013
+#  - course: MA in Int'l Relations and European Politics
+#    institution: Centre Internationale de Formation Européenne
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: "mailto:pburauel@diw.de".
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:pburauel@diw.de"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
