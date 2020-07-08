@@ -22,9 +22,9 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  name = "All"
-  tag = "*"
-  test
+  # name = "All"
+  # tag = "*"
+  
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -77,6 +77,5 @@ subtitle = ""
 +++
 
 
-1. test
-
-2. dt
+* What the Degree of Structural Autonomy Can Say about Instrument Validity
+* second
