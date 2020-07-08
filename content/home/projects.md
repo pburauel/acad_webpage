@@ -79,7 +79,7 @@ subtitle = ""
 
 ### What the Degree of Structural Autonomy Can Say about Instrument Validity
 
-The validity of instrumental variables to estimate causal eﬀects is typically justifed narratively and often remains controversial. Thus, more objective evaluation of instrument validity through data-driven methods is desirable. I build on a method to quantify the degree of confounding in multivariate linear models, which invokes arguments about the autonomy of mechanisms linking cause and eﬀect, and show how it can be used to evaluate instrument validity. Monte Carlo studies show a high accuracy of the procedure. An empirical application shows its feasibility in practice. 
+*Abstract:* The validity of instrumental variables to estimate causal eﬀects is typically justifed narratively and often remains controversial. Thus, more objective evaluation of instrument validity through data-driven methods is desirable. I build on a method to quantify the degree of confounding in multivariate linear models, which invokes arguments about the autonomy of mechanisms linking cause and eﬀect, and show how it can be used to evaluate instrument validity. Monte Carlo studies show a high accuracy of the procedure. An empirical application shows its feasibility in practice. 
 
 [[link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3344981)]
 
@@ -88,7 +88,10 @@ The validity of instrumental variables to estimate causal eﬀects is typically 
 ### A test for reverse causality without instruments
 *with [Christoph Breunig](https://christophbreunig.wordpress.com/)*
 
-available upon request
+*Abstract:* Endogeneity is a central problem in econometric models which potentially invalidates estimates of causal eﬀects. Existing tests of endogeneity often require that a potential solution in the form of instruments is available. In situations in which instruments are not available, a test that does not require them is needed. This paper presents a heteroskedasticity-robust test for reverse causality, as one type of endogeneity, of a single regressor without requiring instruments. The fundamental assumption is that the data generating process can be represented by a regression model with additively separable error term and a nonlinear relation between cause and eﬀect. We move beyond the mean independence assumption and require the error to be independent of the regressor, which allows us to make inference on the causal direction between the variables at hand. We leverage
+advances on kernel-based testing of conditional independence of random variables.
+
+\[available upon request\]
 
 *******************
 
