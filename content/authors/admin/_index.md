@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-My research interests lie at the intersection of causality and machine learning, with applications in neuroscience. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. In spring 2020, I visted Frederick Eberhardt at Caltech --- I will be joining his group as a post-doctoral scholar in 2020. 
+My research interests lie at the intersection of causality and machine learning, with applications in neuroscience. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. In spring 2020, I visted [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/) at Caltech. <br /> I will be joining his group as a post-doctoral scholar in 2020. 
