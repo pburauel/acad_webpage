@@ -81,7 +81,7 @@ subtitle = ""
 
 The validity of instrumental variables to estimate causal eﬀects is typically justifed narratively and often remains controversial. Thus, more objective evaluation of instrument validity through data-driven methods is desirable. I build on a method to quantify the degree of confounding in multivariate linear models, which invokes arguments about the autonomy of mechanisms linking cause and eﬀect, and show how it can be used to evaluate instrument validity. Monte Carlo studies show a high accuracy of the procedure. An empirical application shows its feasibility in practice. 
 
-[link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3344981)
+[[link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3344981)]
 
 *******************
 
@@ -93,7 +93,7 @@ available upon request
 *******************
 
 ### The German Minimum Wage and Wage Growth: Heterogeneous Treatment Effects Using Causal Forests
-*with [Carsten Schröder](https://www.diw.de/de/diw_01.c.439337.de/personen/schroeder__carsten.html)
+*with [Carsten Schröder](https://www.diw.de/de/diw_01.c.439337.de/personen/schroeder__carsten.html)*
 
 *Abstract:* Previous research suggests that minimum wages induce heterogeneous treatment effects on wages across different groups of employees. This research usually defines groups ex ante. We analyze to what extent effect heterogeneities can be discerned in a data-driven manner by adapting the generalized random forest implementation of Athey et al (2019) in a difference-in-differences setting. Such a data-driven methodology allows detecting the potentially spurious nature of heterogeneities found in subgroups chosen ex-ante. The 2015 introduction of a minimum wage in Germany is the institutional background, with data of the Socio-economic Panel serving as our empirical basis. Our analysis not only reveals considerable treatment heterogeneities, it also shows that previously documented effect heterogeneities can be explained by interactions of other covariates. 
 
