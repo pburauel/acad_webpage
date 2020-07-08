@@ -22,7 +22,8 @@ organizations:
 bio: My research interests lie at the intersection of causality and machine learning. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. 
 
 interests:
-- Machine Learning for \\ Causal Inference
+- Machine Learning for  
+Causal Inference
 - Causal Structure Discovery
 - Neuroeconomics
 
@@ -72,4 +73,3 @@ email: ""
 ---
 
 My research interests lie at the intersection of causality and machine learning, with applications in neuroscience. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. In spring 2020, I visted Frederick Eberhardt at Caltech --- I will be joining his group as a post-doctoral scholar in 2020. 
---> In winter 2018/2019, Uri Shalit hosted me at the Technion in Haifa. 
