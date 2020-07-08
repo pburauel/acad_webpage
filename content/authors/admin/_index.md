@@ -22,8 +22,7 @@ organizations:
 bio: My research interests lie at the intersection of causality and machine learning. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. 
 
 interests:
-- Machine Learning for  
-Causal Inference
+- Machine Learning <br /> for Causal Inference
 - Causal Structure Discovery
 - Neuroeconomics
 
