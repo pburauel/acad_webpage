@@ -11,12 +11,12 @@ authors:
 superuser: true
 
 # Role/position
-role: post-doctoral researcher
+role: post-doctoral scholar
 
 # Organizations/Affiliations
 organizations:
-- name: California Institute of Technology
-  url: "https://www.caltech.edu/"
+- name: DIW Berlin
+  url: "https://www.diw.de/de/diw_01.c.516531.de/personen/burauel__patrick.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie at the intersection of causality and machine learning. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. 
@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-My research interests lie at the intersection of causality and machine learning, with applications in neuroscience. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. In spring 2020, I visited [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/) at Caltech --- I will be joining his group as a <br /> post-doctoral scholar in 2021. 
+My research interests lie at the intersection of causality and machine learning, with applications in neuroscience. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. In spring 2020, I visited [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/) at the California Institute of Technology  --- I will be joining his group as a post-doctoral scholar in 2021. 
