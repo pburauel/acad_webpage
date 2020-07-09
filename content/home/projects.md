@@ -81,7 +81,7 @@ subtitle = ""
 
 *Abstract:* The validity of instrumental variables to estimate causal eﬀects is typically justifed narratively and often remains controversial. Thus, more objective evaluation of instrument validity through data-driven methods is desirable. I build on a method to quantify the degree of confounding in multivariate linear models, which invokes arguments about the autonomy of mechanisms linking cause and eﬀect, and show how it can be used to evaluate instrument validity. Monte Carlo studies show a high accuracy of the procedure. An empirical application shows its feasibility in practice. 
 
-\[[link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3344981)\]
+([link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3344981))
 
 *******************
 
@@ -91,7 +91,7 @@ subtitle = ""
 *Abstract:* Endogeneity is a central problem in econometric models which potentially invalidates estimates of causal eﬀects. Existing tests of endogeneity often require that a potential solution in the form of instruments is available. In situations in which instruments are not available, a test that does not require them is needed. This paper presents a heteroskedasticity-robust test for reverse causality, as one type of endogeneity, of a single regressor without requiring instruments. The fundamental assumption is that the data generating process can be represented by a regression model with additively separable error term and a nonlinear relation between cause and eﬀect. We move beyond the mean independence assumption and require the error to be independent of the regressor, which allows us to make inference on the causal direction between the variables at hand. We leverage
 advances on kernel-based testing of conditional independence of random variables.
 
-\[available upon request\]
+(available upon request)
 
 *******************
 
@@ -100,4 +100,4 @@ advances on kernel-based testing of conditional independence of random variables
 
 *Abstract:* Previous research suggests that minimum wages induce heterogeneous treatment effects on wages across different groups of employees. This research usually defines groups ex ante. We analyze to what extent effect heterogeneities can be discerned in a data-driven manner by adapting the generalized random forest implementation of Athey et al (2019) in a difference-in-differences setting. Such a data-driven methodology allows detecting the potentially spurious nature of heterogeneities found in subgroups chosen ex-ante. The 2015 introduction of a minimum wage in Germany is the institutional background, with data of the Socio-economic Panel serving as our empirical basis. Our analysis not only reveals considerable treatment heterogeneities, it also shows that previously documented effect heterogeneities can be explained by interactions of other covariates. 
 
-\[[link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3344981)\]
+([link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3344981))
