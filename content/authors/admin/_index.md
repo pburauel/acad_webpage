@@ -15,7 +15,7 @@ role: post-doctoral scholar
 
 # Organizations/Affiliations
 organizations:
-- name: DIW Berlin
+- name: German Institute for Economic Research (DIW Berlin)
   url: "https://www.diw.de/de/diw_01.c.516531.de/personen/burauel__patrick.html"
 
 # Short bio (displayed in user profile at end of posts)
