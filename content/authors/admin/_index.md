@@ -15,8 +15,8 @@ role: post-doctoral scholar
 
 # Organizations/Affiliations
 organizations:
-- name: German Institute for Economic Research (DIW Berlin)
-  url: "https://www.diw.de/de/diw_01.c.516531.de/personen/burauel__patrick.html"
+- name: California Institute of Technology
+  url: "https://www.caltech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie at the intersection of causality and machine learning. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. 
@@ -42,10 +42,10 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:pburauel@diw.de"
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:pburauel@diw.de"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-My research interests lie at the intersection of causality and machine learning, with applications in neuroscience. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. In spring 2020, I visited [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/) at the California Institute of Technology  --- I will be joining his group as a post-doctoral scholar in 2021. 
+I'm a Swartz Foundation Fellow for Theory in Neuroscience working on causality with [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/). I'm interested in how to address confounding in observational data and how to aggregate causal variables. Though the methods we develop are domain-general, I focus on neuroscientific applications. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. You can reach me at pburauel [at] caltech [dot] edu.
