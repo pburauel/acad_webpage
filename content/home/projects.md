@@ -85,13 +85,14 @@ subtitle = ""
 
 *******************
 
-### A test for reverse causality without instruments
+### Testability of Reverse Causality Without Exogeneous Variation
 *with [Christoph Breunig](https://christophbreunig.wordpress.com/)*
 
-*Abstract:* Endogeneity is a central problem in econometric models which potentially invalidates estimates of causal eﬀects. Existing tests of endogeneity often require that a potential solution in the form of instruments is available. In situations in which instruments are not available, a test that does not require them is needed. This paper presents a heteroskedasticity-robust test for reverse causality, as one type of endogeneity, of a single regressor without requiring instruments. The fundamental assumption is that the data generating process can be represented by a regression model with additively separable error term and a nonlinear relation between cause and eﬀect. We move beyond the mean independence assumption and require the error to be independent of the regressor, which allows us to make inference on the causal direction between the variables at hand. We leverage
-advances on kernel-based testing of conditional independence of random variables.
+*Abstract:* This paper shows that testability of reverse causality is possible even in the absence of exogenous variation, such as in the form of instrumental variables. Instead of relying on exogenous variation, we achieve testability by imposing relatively weak model restrictions. 
+Our main assumption is that the true functional relationship is nonlinear and error terms are additively separable. In contrast to existing literature, we allow the error to be heteroskedastic, which is the case in most economic applications. Our procedure builds on reproducing kernel Hilbert space (RKHS) embeddings of probability distributions to test conditional independence. We show that the procedure provides a powerful tool to detect the causal direction in both Monte Carlo simulations and an application to German survey data. We can infer the causal direction between income and work experience (proxied by age) without relying on exogeneous variation.
 
-available upon request
+
+[link to arxiv version](https://arxiv.org/pdf/2107.05936.pdf)
 
 *******************
 
