@@ -77,9 +77,9 @@ subtitle = ""
 +++
 
 
-### What the Degree of Structural Autonomy Can Say about Instrument Validity
+### Evaluating Instrument Validity using the Principle of Independent Mechanisms
 
-*Abstract:* The validity of instrumental variables to estimate causal eﬀects is typically justifed narratively and often remains controversial. Thus, more objective evaluation of instrument validity through data-driven methods is desirable. I build on a method to quantify the degree of confounding in multivariate linear models, which invokes arguments about the autonomy of mechanisms linking cause and eﬀect, and show how it can be used to evaluate instrument validity. Monte Carlo studies show a high accuracy of the procedure. An empirical application shows its feasibility in practice. 
+*Abstract:* The validity of instrumental variables to estimate causal effects is typically justified narratively and often remains controversial. Critical assumptions are difficult to evaluate since they involve unobserved variables. Building on Janzing and Schölkopf’s (2018) method to quantify a degree of confounding in multivariate linear models, we develop a test that evaluates instrument validity without relying on Balke and Pearl’s (1997) inequality constraints. Instead, our approach is based on the Principle of Independent Mechanisms, which states that causal models have a modular structure. Monte Carlo studies show a high accuracy of the procedure. We apply our method to two empirical studies: first, we can corroborate the narrative justification given by Card (1995) for the validity of college proximity as an instrument for educational attainment to estimate financial returns to education. Second, we cannot reject the validity of past savings rates as an instrument for economic development to estimate its causal effect on democracy (Acemoglu et al., 2008). 
 
 [link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3344981)
 
