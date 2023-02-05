@@ -24,7 +24,7 @@ bio: My research interests lie at the intersection of causality and machine lear
 interests:
 - Machine Learning <br /> for Causal Inference
 - Causal Structure Discovery
-- Neuroeconomics
+- Causal Representation Learning
 
 education:
   courses:
@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-I'm a Swartz Foundation Fellow for Theory in Neuroscience working on causality with [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/). I'm interested in how to address confounding in observational data and how to aggregate causal variables. Though the methods we develop are domain-general, I focus on neuroscientific applications. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. You can reach me at pburauel [at] caltech [dot] edu.
+I'm a postdoc at Caltech working on causality with [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/). I'm interested in how to address confounding in non-experimental data and how to aggregate causal variables. Though the methods we develop are domain-general, I focus on applications in economics. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. You can reach me at pburauel [at] caltech [dot] edu.
