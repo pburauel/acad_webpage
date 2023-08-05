@@ -72,3 +72,5 @@ email: ""
 ---
 
 I'm a postdoc at Caltech working on causality with [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/). I'm interested in how to address confounding in non-experimental data and how to aggregate causal variables. Though the methods we develop are domain-general, I focus on applications in economics. In my doctoral dissertation I explore synergies between research on causality in machine learning and economics. You can reach me at pburauel [at] caltech [dot] edu.
+
+You can download my CV [here](https://www.dropbox.com/scl/fi/mz1effrbdsh40hms58q23/Burauel_CV.pdf?rlkey=nntohny45l5klitwwp7klkj8x&dl=0).
