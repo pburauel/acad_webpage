@@ -79,7 +79,7 @@ subtitle = ""
 
 ### Causal Feature Learning to learn macro-economic variables
 
-Finding proximate causes of economic growth potential using complex economic trade relationships by using [Causal Feature Learning](https://github.com/eberharf/cfl) (empirical basis: yearly bilateral trade data for 180 countries, 7000 product categories, 50 years). Joint with Frederick Eberhardt (Caltech)
+Finding proximate causes of economic growth potential using complex economic trade relationships by using [Causal Feature Learning](https://github.com/eberharf/cfl) (empirical basis: yearly bilateral trade data for 180 countries, 7000 product categories, 50 years). Thereby, we provide an empirical test for the [Economic Complexity Index](https://www.pnas.org/doi/full/10.1073/pnas.0900943106). Joint with Frederick Eberhardt (Caltech)
 
 *******************
 
@@ -92,4 +92,4 @@ Developing methods to disentangle causal from spurious factors of variation in o
 
 ### Novel Formalizations of the Principle of Independent Mechanisms
 
-Developing a novel, formal interpretation of the [Principle of Independent Mechanisms](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/) (causal, unlike spurious, relations are modular) to measure confounding in observational data, with Michel Besserve (Max Planck Institute for Intelligent Systems)
+Developing a novel, formal interpretation of the [Principle of Independent Mechanisms](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/) (causal, unlike spurious, relations are modular) to measure confounding in observational data. Joint with Michel Besserve (Max Planck Institute for Intelligent Systems)
