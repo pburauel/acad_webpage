@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "Job Market Paper"
+  page_type = "projects"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -77,12 +77,19 @@ subtitle = ""
 +++
 
 
-### Evaluating Instrument Validity using the Principle of Independent Mechanisms
+### Causal Feature Learning to learn macro-economic variables
 
-published at [Journal of Machine Learning Research](https://jmlr.org/papers/v24/20-1287.html)
-
-*Abstract:* The validity of instrumental variables to estimate causal effects is typically justified narratively and often remains controversial. Critical assumptions are difficult to evaluate since they involve unobserved variables. Building on Janzing and Schölkopf’s (2018) method to quantify a degree of confounding in multivariate linear models, we develop a test that evaluates instrument validity without relying on Balke and Pearl’s (1997) inequality constraints. Instead, our approach is based on the Principle of Independent Mechanisms, which states that causal models have a modular structure. Monte Carlo studies show a high accuracy of the procedure. We apply our method to two empirical studies: first, we can corroborate the narrative justification given by Card (1995) for the validity of college proximity as an instrument for educational attainment to estimate financial returns to education. Second, we cannot reject the validity of past savings rates as an instrument for economic development to estimate its causal effect on democracy (Acemoglu et al., 2008). 
-
-
+Finding proximate causes of economic growth potential using complex economic trade relationships by using [Causal Feature Learning](https://github.com/eberharf/cfl) (empirical basis: yearly bilateral trade data for 180 countries, 7000 product categories, 50 years). Joint with Frederick Eberhardt (Caltech)
 
 *******************
+
+### Deconfounding using the Information Bottleneck principle
+
+Developing methods to disentangle causal from spurious factors of variation in observational data by leveraging machine learning tools (artificial neural networks and the information bottleneck principle) and known markers of confounding in observational data.
+
+*******************
+
+
+### Novel Formalizations of the Principle of Independent Mechanisms
+
+Developing a novel, formal interpretation of the [Principle of Independent Mechanisms](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/) (causal, unlike spurious, relations are modular) to measure confounding in observational data, with Michel Besserve (Max Planck Institute for Intelligent Systems)
