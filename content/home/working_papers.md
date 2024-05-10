@@ -77,7 +77,7 @@ subtitle = ""
 +++
 
 
-### Testability of Reverse Causality Without Exogeneous Variation
+### Testability of Reverse Causality Without Exogenous Variation
 *with [Christoph Breunig](https://christophbreunig.wordpress.com/)*, submitted to [The Econometrics Journal](https://academic.oup.com/ectj)
 
 *Abstract:* This paper shows that testability of reverse causality is possible even in the absence of exogenous variation, such as in the form of instrumental variables. Instead of relying on exogenous variation, we achieve testability by imposing relatively weak model restrictions and exploiting that a dependence of residual and purported cause is informative about the causal direction. Our main assumption is that the true functional relationship is nonlinear and that error terms are additively separable. We extend previous results by incorporating control variables and allowing heteroskedastic errors. We build on reproducing kernel Hilbert space (RKHS) embeddings of probability distributions to test conditional independence and demonstrate the efficacy in detecting the causal direction in both Monte Carlo simulations and an application to German survey data.
