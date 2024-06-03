@@ -87,7 +87,7 @@ subtitle = ""
 *******************
 
 ### Data-driven definitions of macro-economic concepts: causal representation learning applied to economic complexity
-**with [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/)*
+*with [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/)*
 
 Finding proximate causes of economic growth potential using complex economic trade relationships by using [Causal Feature Learning](https://github.com/eberharf/cfl) (empirical basis: yearly bilateral trade data for 180 countries, 7000 product categories, 50 years). We provide an empirical test for the [Economic Complexity Index](https://www.pnas.org/doi/full/10.1073/pnas.0900943106).
 
