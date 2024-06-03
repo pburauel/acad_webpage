@@ -77,6 +77,24 @@ subtitle = ""
 +++
 
 
+### Controlling for discrete unmeasured confounding in nonlinear causal models
+*with [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/), [Michel Besserve](https://michelbesserve.com/)*
+
+*Abstract:* Unmeasured confounding is a major challenge for identifying causal relationships from non-experimental data. Here, we propose a method that can accommodate unmeasured discrete confounding. Extending recent identifiability results in deep latent variable models, we show theoretically that confounding can be detected and corrected under the assumption that the observed data is a piecewise affine transformation of a latent Gaussian mixture model and that the identity of the mixture components is confounded. We provide a flow-based algorithm to estimate this model and perform deconfounding. Experimental results on synthetic and real-world data provide support for the effectiveness of our approach. 
+
+[preprint available here]([https://arxiv.org/pdf/2107.05936.pdf](https://www.dropbox.com/scl/fi/qlyy52jfzge1y24kthf8s/BurauelEberhardtBesserve_DiscreteConfounding_preprint.pdf?rlkey=3iu3jwpgl6g0fykqbnl7gbfb5&st=ksbaysw8&dl=0))
+
+*******************
+
+### Data-driven definitions of macro-economic concepts: causal representation learning applied to economic complexity
+**with [Frederick Eberhardt](http://www.its.caltech.edu/~fehardt/)*
+
+Finding proximate causes of economic growth potential using complex economic trade relationships by using [Causal Feature Learning](https://github.com/eberharf/cfl) (empirical basis: yearly bilateral trade data for 180 countries, 7000 product categories, 50 years). We provide an empirical test for the [Economic Complexity Index](https://www.pnas.org/doi/full/10.1073/pnas.0900943106).
+
+[preprint available here](https://www.dropbox.com/scl/fi/1apt6nwnl24tujdz60j5o/complexity.pdf?rlkey=ntzqnyds8t6jpxnybd1hmxpv1&st=fq1plu35&dl=0)
+
+*******************
+
 ### Testability of Reverse Causality Without Exogenous Variation
 *with [Christoph Breunig](https://christophbreunig.wordpress.com/)*, submitted to [The Econometrics Journal](https://academic.oup.com/ectj)
 
