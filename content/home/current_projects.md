@@ -77,11 +77,6 @@ subtitle = ""
 +++
 
 
-### Causal Feature Learning to learn macro-economic variables
-
-Finding proximate causes of economic growth potential using complex economic trade relationships by using [Causal Feature Learning](https://github.com/eberharf/cfl) (empirical basis: yearly bilateral trade data for 180 countries, 7000 product categories, 50 years). Thereby, we provide an empirical test for the [Economic Complexity Index](https://www.pnas.org/doi/full/10.1073/pnas.0900943106). Joint with Frederick Eberhardt (Caltech)
-
-*******************
 
 ### Deconfounding using the Information Bottleneck principle
 
