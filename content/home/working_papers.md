@@ -82,7 +82,7 @@ subtitle = ""
 
 *Abstract:* Unmeasured confounding is a major challenge for identifying causal relationships from non-experimental data. Here, we propose a method that can accommodate unmeasured discrete confounding. Extending recent identifiability results in deep latent variable models, we show theoretically that confounding can be detected and corrected under the assumption that the observed data is a piecewise affine transformation of a latent Gaussian mixture model and that the identity of the mixture components is confounded. We provide a flow-based algorithm to estimate this model and perform deconfounding. Experimental results on synthetic and real-world data provide support for the effectiveness of our approach. 
 
-[preprint available here]([https://arxiv.org/pdf/2107.05936.pdf](https://www.dropbox.com/scl/fi/qlyy52jfzge1y24kthf8s/BurauelEberhardtBesserve_DiscreteConfounding_preprint.pdf?rlkey=3iu3jwpgl6g0fykqbnl7gbfb5&st=ksbaysw8&dl=0))
+[preprint available here](https://www.dropbox.com/scl/fi/qlyy52jfzge1y24kthf8s/BurauelEberhardtBesserve_DiscreteConfounding_preprint.pdf?rlkey=3iu3jwpgl6g0fykqbnl7gbfb5&st=g93kghcw&dl=0)
 
 *******************
 
